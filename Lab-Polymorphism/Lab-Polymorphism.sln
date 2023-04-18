@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{55AB2AE5-994B-4353-96DC-31CC7BE4C132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{44C1F559-9C65-4B18-8562-48192923BAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{DD6F316F-F06C-4694-87F6-0E7D8FDE0714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AB2AE5-994B-4353-96DC-31CC7BE4C132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AB2AE5-994B-4353-96DC-31CC7BE4C132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AB2AE5-994B-4353-96DC-31CC7BE4C132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AB2AE5-994B-4353-96DC-31CC7BE4C132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C1F559-9C65-4B18-8562-48192923BAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C1F559-9C65-4B18-8562-48192923BAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C1F559-9C65-4B18-8562-48192923BAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C1F559-9C65-4B18-8562-48192923BAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6F316F-F06C-4694-87F6-0E7D8FDE0714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6F316F-F06C-4694-87F6-0E7D8FDE0714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6F316F-F06C-4694-87F6-0E7D8FDE0714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6F316F-F06C-4694-87F6-0E7D8FDE0714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693A958F-A254-497C-8364-F7F7DB1A8C39}
+	EndGlobalSection
+EndGlobal
